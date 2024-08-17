@@ -11,7 +11,7 @@
   "dependencies": {
     "@emoji-mart/data": "^1.2.1",
     "@emoji-mart/react": "^1.1.1",
-    "@kinde-oss/kinde-auth-nextjs": "^2.3.4",
+    "@kinde-oss/kinde-auth-nextjs": "^2.3.6",
     "@radix-ui/react-avatar": "^1.1.0",
     "@radix-ui/react-dialog": "^1.1.1",
     "@radix-ui/react-popover": "^1.1.1",
@@ -26,7 +26,7 @@
     "framer-motion": "^11.2.13",
     "lucide-react": "^0.402.0",
     "next": "14.2.4",
-    "next-cloudinary": "^6.6.2",
+    "next-cloudinary": "^6.10.0",
     "next-themes": "^0.3.0",
     "pusher": "^5.2.0",
     "pusher-js": "^8.4.0-rc2",
